@@ -85,7 +85,7 @@ function updateVRCStatus() {
 eventEmitter.once("ready", () => {
     console.log("Everything is ready!");
     updateVRCStatus();
-    setInterval(updateVRCStatus, 30 * 60e3);
+    setInterval(updateVRCStatus, 60 * 60e3);
 });
 
 VRCLoginFlow();
