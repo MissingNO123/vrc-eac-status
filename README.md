@@ -1,6 +1,6 @@
 # VRC EAC Status
 
-Sets your status on VRChat to a random acronym for E.A.C. every 30 minutes using [vrchatapi-javascript](https://github.com/vrchatapi/vrchatapi-javascript).
+Sets your status on VRChat to a random acronym for E.A.C. every hour using [vrchatapi-javascript](https://github.com/vrchatapi/vrchatapi-javascript).
 
 ## Prerequisites
 - [Node.js](https://nodejs.org)
