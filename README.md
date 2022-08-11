@@ -6,7 +6,7 @@ Sets your status on VRChat to a random acronym for E.A.C. using [vrchatapi-javas
 - [Node.js](https://nodejs.org)
 
 ## Installation
-- Clone the repository with `git clone https://github.com/MissingNO123/spotify-vrchat-status.git`
+- Clone the repository with `git clone https://github.com/MissingNO123/vrc-eac-status.git`
 - cd into the project folder
 - Run `npm install`
 
