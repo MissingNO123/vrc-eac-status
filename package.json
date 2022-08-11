@@ -1,0 +1,14 @@
+{
+  "name": "eac-vrchat",
+  "version": "1.0.0",
+  "description": "Displays random EAC acronym as VRChat status",
+  "main": "eac-status.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "MissingNO123",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "vrchat": "^1.6.9"
+  }
+}
